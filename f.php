@@ -133,7 +133,7 @@
 
     <div class="footer-links">
         
-        <a href="view.php"> ПРОСМОТР АНКЕТ</a>
+        <a href="v.php"> ПРОСМОТР АНКЕТ</a>
     </div>
 </div>
 </body>

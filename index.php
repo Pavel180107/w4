@@ -80,7 +80,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'GET') {
     }
 
     // Подключаем шаблон формы
-    include 'form.php';
+    include 'f.php';
     exit();
 }
 
